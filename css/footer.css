@@ -1,0 +1,223 @@
+.footer{
+    width:1440px;
+    margin:0 auto;
+    padding:20px 0 114px;
+    background:#1a1a1a;
+    color:#fff;
+    font-size:12px;
+    z-index:15;
+}
+.footer-content{
+    margin:0 auto;
+    width:1170px;
+    height:290px;
+}
+.footer .main-block{
+    display:flex;
+    flex-wrap:nowrap;
+
+}
+.footer .main-block{
+    display:flex;
+    flex-wrap:nowrap;
+
+}
+.footer .main-block .info{
+    display:flex;
+    flex-wrap:nowrap;
+    font-size:12px;
+    margin-bottom:15px;
+
+}
+.footer .main-block .info .info-name{
+    width:56px;
+    margin-right:15px;
+    font-weight:300;
+    color:#999;
+}
+.footer .main-block .info .links{
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+.footer .main-block .info .links a{
+    color:#fff;
+    margin-left:15px;
+}
+.footer .main-block .info .links .partner{
+    display:inline-block;
+    margin:0 5px 5px 0;
+    width:30px;
+    height:30px;
+    background-size:cover;
+    filter:grayscale(1) brightness(.8);
+    background-image:url("../img/index/footerlogo.png");
+
+}
+.footer .main-block .info .links .partners-row:first-child .partner:first-child{
+    background-position:-30px 0;
+}
+
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(2){
+    background-position:-60px 0;
+}
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(3){
+    background-position:-90px 0;
+}
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(4){
+    background-position:-120px 0;
+}
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(5){
+    background-position:-150px 0;
+}
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(6){
+    background-position:-180px 0;
+}
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(7){
+    background-position:-210px 0;
+}
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(8){
+    background-position:-240px 0;
+}
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(9){
+    background-position:-270px 0;
+}
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(10){
+    background-position:-300px 0;
+}
+.footer .main-block .info .links .partners-row:first-child .partner:nth-child(11){
+    background-position:-330px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:first-child{
+    background-position:-360px 0;
+}
+
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(2){
+    background-position:-390px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(3){
+    background-position:-42px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(4){
+    background-position:-450px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(5){
+    background-position:-480px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(6){
+    background-position:-510px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(7){
+    background-position:-540px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(8){
+    background-position:-570px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(9){
+    background-position:-600px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(10){
+    background-position:-630px 0;
+}
+.footer .main-block .info .links .partners-row:nth-child(2) .partner:nth-child(11){
+    background-position:-660px 0;
+}
+
+.footer .main-block .info .links .partners-row:last-child .partner:first-child{
+    background-position:-690px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(2){
+    background-position:-720px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(3){
+    background-position:-750px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(4){
+    background-position:-780px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(5){
+    background-position:-810px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(6){
+    background-position:-840px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(7){
+    background-position:-870px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(8){
+    background-position:-900px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(9){
+    background-position:-930px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(10){
+    background-position:-960px 0;
+}
+.footer .main-block .info .links .partners-row:last-child .partner:nth-child(11){
+    background-position:-990px 0;
+}
+.footer .main-block .follow-us{
+    width:110px;
+    margin-left:230px;
+}
+.footer .main-block .follow-us .follow-us-title{
+    margin-bottom:10px;
+    color:#999;
+}
+.footer .main-block .follow-us .follow-us-icons{
+    display:flex;
+    justify-content:space-between;
+}
+.footer .main-block .follow-us .follow-us-icons a div{
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    padding:5px;
+    background-color:#fff;
+}
+.footer .main-block .app{
+    margin-left:60px;
+    width:150px;
+}
+.footer .main-block .app .app-title{
+    margin-bottom:10px;
+    color:#999;
+}
+.footer .main-block .app img{
+    display:block;
+    width:150px;
+    height:150px;
+}
+.footer hr{
+    margin:5px 0 20px;
+}
+.footer .weakened-block{
+    display:flex;
+    justify-content:space-between;
+    line-height:18px;
+    color:#4d4d4d;
+}
+.footer .weakened-block a{
+    color:#464646;
+    font-size:12px;
+    transition:color .2s;
+    position:relative;
+    line-height:18px;
+}
+.footer .weakened-block .ali-links a{
+    padding:0 15px;
+}
+.footer .weakened-block .ali-links a:first-child{
+    padding-left:0;
+}
+.footer .weakened-block .ali-links a:hover{
+    color:#fff;
+}
+.footer .weakened-block  .ali-links a::after{
+    content:"|";
+    position:absolute;
+    right:0;
+    color:#4d4d4d;
+}
+.footer .weakened-block .copyright{
+    text-align:right;
+}
